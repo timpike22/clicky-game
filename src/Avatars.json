@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "image": "https://api.adorable.io/avatars/200/butt@adorable.io.png",
+        "selected": false,
+        "name": "monster1"
+
+
+    },
+    {
+        "id": 2,
+        "image": "https://api.adorable.io/avatars/200/walter@adorable.io.png",
+        "selected": false,
+        "name": "monster2"
+
+    },
+    {
+        "id": 3,
+        "image": "https://api.adorable.io/avatars/200/martin@adorable.io.png",
+        "selected": false,
+        "name": "monster3"
+
+    },
+    {
+        "id": 4,
+        "image": "https://api.adorable.io/avatars/200/@ugly.io.png",
+        "selected": false,
+        "name": "monster4"
+    },
+    {
+        "id": 5,
+        "image": "https://api.adorable.io/avatars/200/horace@adorable.io.png",
+        "selected": false,
+        "name": "monster5"
+    },
+    {
+        "id": 6,
+        "image": "https://api.adorable.io/avatars/200/berna@adorable.io.png",
+        "selected": false,
+        "name": "monster6"
+
+    },
+    {
+        "id": 7,
+        "image": "https://api.adorable.io/avatars/200/bai@beautiful.io.png",
+        "selected": false,
+        "name": "monster7"
+
+    },
+    {
+         "id": 8,
+         "image": "https://api.adorable.io/avatars/200/bail@beautiful.io.png",
+        "selected": false,
+        "name": "monster8"
+
+    },
+    {
+        "id": 9,
+        "image": "https://api.adorable.io/avatars/200/m@mon.io.png",
+        "selected": false,
+        "name": "monster9"
+
+    },
+    {
+        "id": 10,
+        "image": "https://api.adorable.io/avatars/200/how@adorable.io.png",
+        "selected": false,
+        "name": "monster10"
+
+    },
+    {
+        "id": 11,
+        "image": "https://api.adorable.io/avatars/200/monsterstinke@.io.png",
+        "selected": false,
+        "name": "monster11"
+    },
+    {
+        "id": 12,
+        "image": "https://api.adorable.io/avatars/200/no@nothan.io.png",
+        "selected": false,
+        "name": "monster12"
+    }
+    
+]
