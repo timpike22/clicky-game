@@ -1,0 +1,16 @@
+.navbar {
+    margin-bottom: 2.5%;
+    margin-right: 10%;
+    margin-left: 10%;
+    padding: 5%;
+    border-bottom: solid 1px black;
+}
+
+.navbar h1 {
+
+}
+
+.container {
+    width: 100%;
+    margin: auto;
+}
