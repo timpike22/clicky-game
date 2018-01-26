@@ -9,7 +9,7 @@ const Navbar = props =>
     <nav className="navbar">
         <div className="row">
             <div className="col">
-                <h1> Welcome to Face Memory Game! </h1>
+                <h1> Welcome to Faces Memory Game! </h1>
             </div>
             </div>
             <div className="row">
